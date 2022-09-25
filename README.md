@@ -1,5 +1,6 @@
 # Guilarte-OnlyTie
 El alumno Guilarte esta desarrollando un eCommerce llamado OnlyTie
+
 ## Definición de la temática del e-commerce
 En este sitio podremos visualizar todos los productos de la tienda oficial ubicada en el Centro Comercial Sambil de Caracas Venezuela Nivel Autopista. 
 La tienda tiene un perfil de ropa masculina casual y formal. 
