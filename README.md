@@ -23,9 +23,13 @@ Arial
 
 ## Paleta de Colores
   #2b2d42
+  
   #8d99ae
+  
   #f8f32b
+  
   #ffffff
+  
   #000000  (background)
 
 
@@ -34,4 +38,5 @@ Arial
 [kamuza][kamuza]
 
 ## Muestra de Logo
+![kazuma-logo-web](https://user-images.githubusercontent.com/112668024/192166871-54f489cd-db09-4a0f-ba09-d8de1dda5def.jpg)
 
