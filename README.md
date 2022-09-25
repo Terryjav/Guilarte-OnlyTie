@@ -34,4 +34,4 @@ Arial
 [kamuza][kamuza]
 
 ## Muestra de Logo
-![Image text] (https://github.com/Terryjav/Guilarte-OnlyTie/blob/master/kazuma-logo-web.jpg)
+
