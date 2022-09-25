@@ -19,6 +19,7 @@ otro canal de venta más que el físico de tienda con su carrito de compras.
 
 ## Tipografía Principal
 Helvetica 
+
 Arial
 
 ## Paleta de Colores
