@@ -40,5 +40,7 @@ Arial
 [kamuza][kamuza]
 
 ## Muestra de Logo
-![kazuma-logo-web](https://user-images.githubusercontent.com/112668024/192166871-54f489cd-db09-4a0f-ba09-d8de1dda5def.jpg)
+![Logo_Joyería_Minimalista_Orgánico_Blanco_Beige-removebg-preview](https://user-images.githubusercontent.com/112668024/192295748-de098e58-30bd-4bd9-a4ee-ed9115a00692.png)
 
+## Otra Muestra de Logo
+![kazuma-logo-web](https://user-images.githubusercontent.com/112668024/192166871-54f489cd-db09-4a0f-ba09-d8de1dda5def.jpg)
