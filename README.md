@@ -30,9 +30,11 @@ Arial
   
   #f8f32b
   
-  #ffffff
+  #ffffff 
   
-  #000000  (background)
+  #000000  
+  
+  ![paleta de colores](https://user-images.githubusercontent.com/112668024/192390503-71362580-4a77-46f3-9abf-d7568a53104a.png)
 
 
 ## Referencias
@@ -41,6 +43,3 @@ Arial
 
 ## Muestra de Logo
 ![Logo_Joyería_Minimalista_Orgánico_Blanco_Beige-removebg-preview](https://user-images.githubusercontent.com/112668024/192295748-de098e58-30bd-4bd9-a4ee-ed9115a00692.png)
-
-## Otra Muestra de Logo
-![kazuma-logo-web](https://user-images.githubusercontent.com/112668024/192166871-54f489cd-db09-4a0f-ba09-d8de1dda5def.jpg)
